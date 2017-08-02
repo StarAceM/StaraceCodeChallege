@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodeChallenge</string>
+    <string name="end_date_prefix">End Date:</string>
+    <string name="on_error_text">Oops, something went wrong. The upcoming guides could not be found</string>
+</resources>
